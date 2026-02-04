@@ -1,0 +1,17 @@
+{
+  "short_name": "AngryNeighbor",
+  "name": "Angry Neighbor Web Edition",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
+
