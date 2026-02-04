@@ -9,7 +9,7 @@ Bu proje, orijinal oyunun heyecanını web tarayıcısına taşımayı amaçlaya
 - **Backend (Opsiyonel):** Firebase
 
 ## 📖 Hikaye
-Kaskosu biten bir tabletin küllerinden doğan bu projede, komşunun evine gizlice girip gizemleri çözmeye çalışıyoruz! 
+Küllerinden doğan bu projede, komşunun evine gizlice girip gizemleri çözmeye çalışıyoruz! 
 
 ## 🚀 Başlangıç
 1. Repoyu clone'layın.
